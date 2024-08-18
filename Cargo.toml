@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "sillypass-server",
+    "sillypass-lib",
+    "sillypass-gtk",
+]
